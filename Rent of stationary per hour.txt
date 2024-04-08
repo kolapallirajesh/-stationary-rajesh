@@ -1,0 +1,7 @@
+Rent of stationary per hour
+
+Iaw books rent         =300                           
+Study books rent       =45                             
+Devotional books rent  =60                     
+Comeic  book rent      =20                       
+Meazine book rent      =10                      
